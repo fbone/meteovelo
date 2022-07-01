@@ -76,9 +76,9 @@ function ParseData(data) {
 }
 
 const VillesList = { 
-	ennes : 'https://rpcache-aa.meteofrance.com/internet2018client/2.0/nowcast/rain?lat=48.111979&lon=-1.681864&token=__Wj7dVSTjV9YGu1guveLyDq0g7S7TfTjaHBTPTpO0kj8__', 
-	esson : 'https://rpcache-aa.meteofrance.com/internet2018client/2.0/nowcast/rain?lat=48.120227&lon=-1.597144&token=__Wj7dVSTjV9YGu1guveLyDq0g7S7TfTjaHBTPTpO0kj8__', 
-	horigne : 'https://rpcache-aa.meteofrance.com/internet2018client/2.0/nowcast/rain?lat=48.156608&lon=-1.584099&token=__Wj7dVSTjV9YGu1guveLyDq0g7S7TfTjaHBTPTpO0kj8__'
+	Rennes : 'https://rpcache-aa.meteofrance.com/internet2018client/2.0/nowcast/rain?lat=48.111979&lon=-1.681864&token=__Wj7dVSTjV9YGu1guveLyDq0g7S7TfTjaHBTPTpO0kj8__', 
+	Cesson : 'https://rpcache-aa.meteofrance.com/internet2018client/2.0/nowcast/rain?lat=48.120227&lon=-1.597144&token=__Wj7dVSTjV9YGu1guveLyDq0g7S7TfTjaHBTPTpO0kj8__', 
+	Saint_Gregoire : 'https://rpcache-aa.meteofrance.com/internet2018client/2.0/nowcast/rain?lat=48.149741&lon=-1.692441&token=__Wj7dVSTjV9YGu1guveLyDq0g7S7TfTjaHBTPTpO0kj8__'
 	};
 
 for (const Ville in VillesList){
